@@ -35,13 +35,13 @@ language bindings that come out of the box.
 
 # Low Resolution GIF
 
-<img alt="Animated GIF of Nux example app running on all supported platforms" src="nux.gif" width="150px">
+<img alt="Animated GIF of Nux example app running on all supported platforms" src="nux.gif" width="250px">
 
 # Screenshots
 
-<img alt="Nux example running on Windows" src="screenshots/windows-cpp.png" width="150px">
-<img alt="Nux example running on macOS" src="screenshots/macos-cpp.png" width="150px">
-<img alt="Nux example running on Linux" src="screenshots/linux-cpp.png" width="150px">
+<img alt="Nux example running on Windows" src="screenshots/windows-cpp.png" width="250px">
+<img alt="Nux example running on macOS" src="screenshots/macos-cpp.png" width="250px">
+<img alt="Nux example running on Linux" src="screenshots/linux-cpp.png" width="250px">
 
 # License
 
