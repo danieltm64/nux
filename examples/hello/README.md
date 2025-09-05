@@ -14,8 +14,6 @@ the several bindings that come out of the box with Nux.
 5. Run `./hello` (macOS and Linux) or `.\hello.exe` (Windows).
 6. This is what you'll get, depending on your platform:
 
-<p style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="../../screenshots/windows-cpp.png" height="150px" style="padding-bottom: 25px;">
-    <img src="../../screenshots/macos-cpp.png" height="200px">
-    <img src="../../screenshots/linux-cpp.png" height="140px">
-</p>
+<img alt="Nux example running on Windows" src="../../screenshots/windows-cpp.png" width="250px">
+<img alt="Nux example running on macOS" src="../../screenshots/macos-cpp.png" width="250px">
+<img alt="Nux example running on Linux" src="../../screenshots/linux-cpp.png" width="250px">
