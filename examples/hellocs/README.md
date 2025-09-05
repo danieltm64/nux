@@ -12,8 +12,6 @@ This example showcases using Nux from C#.
 5. Run `dotnet run`.
 6. This is what you'll get, depending on your platform:
 
-<p style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="../../screenshots/windows-cs.png" height="150px" style="padding-bottom: 25px;">
-    <img src="../../screenshots/macos-cs.png" height="200px">
-    <img src="../../screenshots/linux-cs.png" height="140px">
-</p>
+<img alt="Nux example running on Windows" src="../../screenshots/windows-cs.png" width="250px">
+<img alt="Nux example running on macOS" src="../../screenshots/macos-cs.png" width="250px">
+<img alt="Nux example running on Linux" src="../../screenshots/linux-cs.png" width="250px">

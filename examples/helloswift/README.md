@@ -14,8 +14,6 @@ This example showcases using Nux from Swift.
    * On Windows, `swift run` discards the manifest file, which is necessary to enable visual styles.
 7. This is what you'll get, depending on your platform:
 
-<p style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="../../screenshots/windows-swift.png" height="150px" style="padding-bottom: 25px;">
-    <img src="../../screenshots/macos-swift.png" height="200px">
-    <img src="../../screenshots/linux-swift.png" height="140px">
-</p>
+<img alt="Nux example running on Windows" src="../../screenshots/windows-swift.png" width="250px">
+<img alt="Nux example running on macOS" src="../../screenshots/macos-swift.png" width="250px">
+<img alt="Nux example running on Linux" src="../../screenshots/linux-swift.png" width="250px">

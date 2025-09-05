@@ -12,8 +12,6 @@ This example showcases using Nux from Rust.
 5. Run `cargo run`.
 6. This is what you'll get, depending on your platform:
 
-<p style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="../../screenshots/windows-rs.png" height="150px" style="padding-bottom: 25px;">
-    <img src="../../screenshots/macos-rs.png" height="200px">
-    <img src="../../screenshots/linux-rs.png" height="140px">
-</p>
+<img alt="Nux example running on Windows" src="../../screenshots/windows-rs.png" width="250px">
+<img alt="Nux example running on macOS" src="../../screenshots/macos-rs.png" width="250px">
+<img alt="Nux example running on Linux" src="../../screenshots/linux-rs.png" width="250px">

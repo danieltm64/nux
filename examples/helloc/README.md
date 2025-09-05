@@ -12,8 +12,6 @@ This example showcases using Nux from C.
 5. Run `./helloc` (macOS and Linux) or `.\helloc.exe` (Windows).
 6. This is what you'll get, depending on your platform:
 
-<p style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-    <img src="../../screenshots/windows-c.png" height="150px" style="padding-bottom: 25px;">
-    <img src="../../screenshots/macos-c.png" height="200px">
-    <img src="../../screenshots/linux-c.png" height="140px">
-</p>
+<img alt="Nux example running on Windows" src="../../screenshots/windows-c.png" width="250px">
+<img alt="Nux example running on macOS" src="../../screenshots/macos-c.png" width="250px">
+<img alt="Nux example running on Linux" src="../../screenshots/linux-c.png" width="250px">
