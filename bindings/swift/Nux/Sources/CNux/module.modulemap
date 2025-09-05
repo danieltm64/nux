@@ -1,0 +1,5 @@
+module CNux [system] {
+    umbrella "../../vendor/include"
+    link "nux8c"
+    export *
+}

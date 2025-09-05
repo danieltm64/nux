@@ -1,0 +1,11 @@
+[package]
+name = "hellors"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+nux = { path = "../../../bindings/rs/nux" }
+
+[build-dependencies]
+bindgen = "0.72.0"
+embed-resource = "3"
