@@ -40,7 +40,7 @@ language bindings that come out of the box.
 # Screenshots
 
 <img alt="Nux example running on Windows" src="screenshots/windows-cpp.png" width="250px">
-<img alt="Nux example running on macOS" src="screenshots/macos-cpp.png" width="275px">
+<img alt="Nux example running on macOS" src="screenshots/macos-cpp.png" width="250px">
 <img alt="Nux example running on Linux" src="screenshots/linux-cpp.png" width="250px">
 
 # License
